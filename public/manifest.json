@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Seasons",
+  "name": "React seasons application training.",
   "icons": [
     {
       "src": "favicon.ico",
